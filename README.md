@@ -1,6 +1,6 @@
 # AUTOMATIC LABELING OF MOUNTAIN BIKING SENSORY DATA
 
-This is the code and the dataset to our publication "AUTOMATIC LABELING OF MOUNTAIN BIKING SENSORY DATA".
+This is the code and the dataset to our submission "AUTOMATIC LABELING OF MOUNTAIN BIKING SENSORY DATA".
 
 ### Abstract
 ```
