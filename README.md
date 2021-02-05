@@ -1,6 +1,6 @@
 # AUTOMATIC LABELING OF MOUNTAIN BIKING SENSORY DATA
 
-This is the code and the dataset to our submission "AUTOMATIC LABELING OF MOUNTAIN BIKING SENSORY DATA" to ICASSP 2021.
+This is the code and the dataset to our submission "AUTOMATIC LABELING OF MOUNTAIN BIKING SENSORY DATA" to EUSIPCO 2021.
 
 ### Abstract
 ```
