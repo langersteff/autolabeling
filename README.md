@@ -6,10 +6,10 @@ This is the code and the dataset to our submission "AUTOMATIC LABELING OF MOUNTA
 ```
 Supervised machine learning (ML) and deep learning (DL) algorithms have shown great results on labeled data in various research fields over this past decade.
 However, in niche scenarios, such as mountain sports, labeled data is scarce.
-Therefore, in this work, we present and evaluate an open source pipeline to easily create an auto-labeled, 25Hz sensory data set for the sport of downhill mountain biking.
-We test the resulting data set against the two labels **ground surface** and **track difficulty** across four ML and DL algorithms and four window sizes.
-The best models reach an adjusted balanced accuracy score of 0.54 +/-0.08 on ground surface classification and 0.56 +-0.06 on track difficulty classification.
-From the empirical results we find that the proposed pipeline is a valid and easy option for recording and auto-labeling mountain sports sensory data sets for the purpose of ML and DL tasks.
+Therefore, in this work, we present and evaluate an open source pipeline to easily create large, auto-labeled, 25Hz sensory data sets for outdoor sports.
+Utilizing our pipeline, we were able to automatically annotate recordings of smart wearable sensor data of multiple mountain bike riders with labels for ground surface and track difficulty.
+On this data set, we trained four ML and DL classification algorithms on four window sizes, reaching adjusted balanced accuracy scores of 0.54 +/-0.08 (ground surface) and 0.56 +\-0.06$ (track difficulty).
+From the empirical results we find that the proposed pipeline is a valid and easy option for quickly recording and auto-labeling mountain sports sensory data sets for the purpose of ML and DL tasks.
 ```
 
 ### Structure
